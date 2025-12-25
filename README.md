@@ -14,11 +14,11 @@
 - **架構導向的 AI 協作**：將 AI 視為共同開發者，我專注於定義高品質的專案架構與 Prompt 邏輯，透過協作快速補足技術細節，將心力保留給最重要的「系統定義」。
 - **持續進步的修煉者**：在 AI 時代，我深信定義「什麼是更好」的品味，才是區分專案價值的核心。
 
-## 🛠️ 開發支柱 (Tech Stacks)
+## 🛠️ 開發支柱
 - **核心執行**: Python
 - **智慧核心**: LLM (Gemini / OpenAI) 協作與 Agent 開發
 
-## 📂 精選實作 (Featured Projects)
+## 📂 實作專案
 ### [Catcher in NEWS](https://github.com/YuJunWang/News-Catcher-AI) 
 透過精準的語意過濾架構，將原本混亂的新聞流轉化為高品質的商業情報，成功將數據雜訊降低了 86%。
 
