@@ -28,3 +28,7 @@
 
 
 > **「我不只是在學習技術，我是在實踐一種更快速、更有品質的創造方式。」**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuJunWang&layout=compact&theme=radical&hide_border=true&lang_count=6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuJunWang&show_icons=true&theme=radical&hide_border=true)
+
