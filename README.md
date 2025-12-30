@@ -21,6 +21,8 @@
 - **智慧核心**: LLM (Gemini / OpenAI) 協作與 Agent 開發
 
 ## 📂 實作專案
+### [HarmonyChainSpace](https://github.com/YuJunWang/HarmonyChainSpace)
+模擬了專家會診的流程，利用不同角色的 AI Agent 分別引用權威資料庫（RAG），進行邏輯辯證，最終由協調者提出兼顧安全與心理舒適的折衷方案。
 ### [Catcher in NEWS](https://github.com/YuJunWang/News-Catcher-AI) 
 透過精準的語意過濾架構，將原本混亂的新聞流轉化為高品質的商業情報，成功將數據雜訊降低了 86%。
 
