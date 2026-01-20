@@ -30,8 +30,3 @@
 
 > **「我不只是在學習技術，我是在實踐一種更快速、更有品質的創造方式。」**
 
-# 📊 My GitHub Stats
-
-![](https://raw.githubusercontent.com/YuJunWang/YuJunWang/master/profile-summary-card-output/default/0-profile-details.svg)
-![](https://raw.githubusercontent.com/YuJunWang/YuJunWang/master/profile-summary-card-output/default/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/YuJunWang/YuJunWang/master/profile-summary-card-output/default/2-most-commit-language.svg)
