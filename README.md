@@ -20,5 +20,3 @@
 <p align="center">
   <img src="profile-summary-card-output/github_dark/0-profile-details.svg" />
 </p>
-
----
