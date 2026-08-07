@@ -19,6 +19,4 @@
 
 <p align="center">
   <img src="profile-summary-card-output/github_dark/0-profile-details.svg" />
-  <img src="profile-summary-card-output/github_dark/1-repo-languages.svg" />
-  <img src="profile-summary-card-output/github_dark/2-productive-time.svg" />
 </p>
